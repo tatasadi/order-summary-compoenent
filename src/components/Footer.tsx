@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <p className="text-center">
+    <p className="text-center text-sm">
       Challenge by{" "}
       <a
         href="https://www.frontendmentor.io"
