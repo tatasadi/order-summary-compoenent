@@ -1,6 +1,6 @@
 export default function OrderSummary() {
   return (
-    <div className=" w-[20.4375rem] lg:w-[28.125rem] rounded-[1.25rem] bg-white">
+    <div className=" w-[20.4375rem] lg:w-[28.125rem] rounded-[1.25rem] bg-white shadow-[0_40px_40px_-20px_rgba(13,48,189,0.15)]">
       <img
         src="/images/illustration-hero.svg"
         alt="hero-image"
