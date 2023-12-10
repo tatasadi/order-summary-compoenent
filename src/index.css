@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .footer-link {
+    @apply text-brightblue underline cursor-pointer;
+  }
+}
